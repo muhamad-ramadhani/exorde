@@ -80,6 +80,8 @@ docker run -it exorde-cli -m AddressKalian(0x) -l (pilih 1-4)
 
 ![image](https://user-images.githubusercontent.com/72949170/200724698-db1a4a7d-5aa3-4e03-b036-043e479d3804.png)
 
+Kalian bisa close screen ```CTRL A + D``` atau langsung tutup tab 
+Untuk melihat log kalian bisa command ```screen -Rd exorde```
 
 ## 4. DONE, UNTUK UPDATE SELANJUTNYA KALIAN BISA PANTAU <a href="https://t.me/PemulungAirdropID" target="_blank">CHANNEL KITA </a>
 </p>
