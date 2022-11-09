@@ -74,7 +74,7 @@ docker run -it exorde-cli -m AddressKalian(0x) -l (pilih 1-4)
 > Contoh
 > docker run -it exorde-cli -m 0x0000000000000000000000000000000000 -l 4
 
-``Saran pilih 4 karena lebih lengkap``
+Ambil Address dari Metamask (Wallet baru kalo bisa), **Saran pilih 4 karena lebih lengkap**
 
 |  Logging Level |  Detail |
 | ------------ | ------------ |
