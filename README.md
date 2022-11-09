@@ -15,11 +15,12 @@
 | Penyimpanan  | 500 GB HDD |
 | Koneksi | 100 Mbit/s |
 
-Twitter :
-> https://twitter.com/ExordeLabs
+Explorer : 
+> https://explorer.exorde.network/
 
-Discord :
-> https://discord.com/invite/exordelabs
+Social Media
+> <a href="https://twitter.com/ExordeLabs" target="_blank">Twitter </a> | <a href="https://discord.com/invite/exordelabs" target="_blank">Discord </a> 
+
 
 ## 1. Install bahan (Kalau udah, skip aja)
 
@@ -92,3 +93,23 @@ Untuk melihat log kalian bisa command ```screen -Rd exorde```
 
 ## 4. DONE, UNTUK UPDATE SELANJUTNYA KALIAN BISA PANTAU <a href="https://t.me/PemulungAirdropID" target="_blank">CHANNEL KITA </a>
 </p>
+
+## Perintah Berguna
+
+Check logs
+
+```
+docker logs Exorde
+```
+Check logs constantly
+
+```
+docker logs --follow Exorde
+```
+
+Delete Node
+
+```
+sudo  docker stop Exorde &&  sudo  docker  rm Exorde
+sudo  rm -rf ExordeModuleCLI
+ ```
