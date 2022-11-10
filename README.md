@@ -107,9 +107,14 @@ Check logs constantly
 docker logs --follow Exorde
 ```
 
+Check Docker
+```
+docker container ls -a
+```
+
 Delete Node
 
 ```
-sudo  docker stop Exorde &&  sudo  docker  rm Exorde
+sudo  docker stop Your_docker_ID &&  sudo  docker  rm stop Your_docker_ID
 sudo  rm -rf ExordeModuleCLI
  ```
