@@ -115,6 +115,6 @@ docker container ls -a
 Delete Node
 
 ```
-sudo  docker stop Your_docker_ID &&   &&  sudo  docker  rm Your_docker_ID
+sudo  docker stop Your_docker_ID && sudo  docker rm Your_docker_ID
 sudo  rm -rf ExordeModuleCLI
  ```
